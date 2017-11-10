@@ -6,12 +6,3 @@ This repository serves as the base repository for use in a Software Carpentry Wo
 to show an example workflow for  collaborating on a project. The lesson plan is under
 development and will be linked when complete. 
 
-
-#### Use
-
-Import, **do not fork**, this repository to your host account on GitHub. Use the import
-untilty provided by GitHub at [https://import.github.com](https://import.github.com)
-
-#### Disclaimer
-
-This is a work in progress
